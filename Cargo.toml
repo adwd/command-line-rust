@@ -8,4 +8,4 @@ edition = "2021"
 [dependencies]
 
 [workspace]
-members = [ "ch02_echor","chapter01"]
+members = [ "ch02_echor", "ch03_cat","chapter01"]
